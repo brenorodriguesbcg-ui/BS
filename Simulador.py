@@ -1,5 +1,4 @@
 
-from IPython.display import display
 
 # Fator calibrado com precisão cirúrgica para que 100k resulte em exatos R$ 341,50 de meia parcela
 FATOR_TABELA = 0.006830
