@@ -1,4 +1,4 @@
-import ipywidgets as widgets
+
 from IPython.display import display
 
 # Fator calibrado com precisão cirúrgica para que 100k resulte em exatos R$ 341,50 de meia parcela
